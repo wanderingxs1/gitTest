@@ -5,3 +5,5 @@
 #package file
 *.jar
 *.rar
+#personal ignore
+*.jpeg
