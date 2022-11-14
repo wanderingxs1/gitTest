@@ -5,3 +5,5 @@
 #package file
 *.jar
 *.rar
+#my option
+*.mx
